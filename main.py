@@ -200,5 +200,4 @@ while True:
         else:
             print("Please type control R and try again")  # to relaunch the entire program again
     print("Sorry, we do not have that for the moment :(, try again please")
-    print("Developed and optimized by Majdoub SOFTWARE 2023")
 
