@@ -1,6 +1,7 @@
 # start of program
 # the idea is to replace forex bureaus
 # it's like an interaction between a human and a machine
+# author Fares Majdoub
 
 # if the clients inputs a country , we tell him the country's currency
 currency_iso_codes = {"united states": "United states Dollar",
